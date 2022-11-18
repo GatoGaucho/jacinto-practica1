@@ -2,3 +2,10 @@ img {
     width: 50%;
     height: auto;
 }
+
+
+p {
+    font-size: 40px;
+    color:brown;
+    font-weight: 500;
+}
